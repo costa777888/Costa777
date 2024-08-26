@@ -1,4 +1,1 @@
-Boas vindas ao meu perfil
-meu nome é João Felipe
-Estou me desenvolvendo na linguagem JavaScript
-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+Olá! Eu sou João Felipe, entusiasta de JavaScript em constante aprendizado. Este repositório serve como um espaço para organizar e compartilhar os projetos que desenvolvo ao longo da minha jornada na programação. Fique à vontade para explorar e acompanhar meu progresso!
